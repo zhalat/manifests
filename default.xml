@@ -13,7 +13,7 @@
   <project name="meta-raspberrypi"              path="meta-raspberrypi"             remote="agherzan_repo"    revision="4d53165cbe543452a4fda31887c4ae4333422d3e" upstream="scarthgap"/>
   
   <!--application's layers-->
-  <project name="meta-custom-demo-application"  path="meta-custom-demo-application" remote="zhalat_repo"      revision="919d899e862f393be6b7e9669718f5c2aa856634" upstream="scarthgap">
+  <project name="meta-custom-demo-application"  path="meta-custom-demo-application" remote="zhalat_repo"      revision="6c817cde37f9d670d095dfe0827193f8bee71b7f" upstream="scarthgap">
     <linkfile src="demo-custom-setup.sh"  dest="demo-custom-setup.sh"/>
   </project>
 
